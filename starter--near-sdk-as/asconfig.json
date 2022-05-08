@@ -1,0 +1,7 @@
+{
+  "workspaces": [
+    "src/simple",
+    "src/singleton"
+  ],
+  "extends": ["near-sdk-as/asconfig.json"]
+}
